@@ -1,0 +1,2 @@
+* Nada por comentar. Primer Commit. Hay un solo commit, porque es un projecto de prueba, para Electron.
+* Ya está terminado, solo seria, si se quiere, agregar las notificaciones y que las notas se eliminen despues de que ya pasó el tiempo.
